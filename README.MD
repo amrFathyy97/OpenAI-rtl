@@ -2,6 +2,9 @@
 
 This Firefox extension aims to resolve Arabic language formatting issues on the OpenAI website without affecting the English language formatting.
 
+## Link 
+https://addons.mozilla.org/en-US/firefox/addon/openai-rtl/
+
 ## Features
 
 - Resolves Arabic language formatting problems on OpenAI's website.
